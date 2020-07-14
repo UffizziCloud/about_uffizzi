@@ -26,15 +26,15 @@ Uffizzi Cloud is currently in private Beta. To request access, visit https://uff
 - [x] HTTPS encryption (managed SSL certificates)
 
 ## FAQs
-- [Why would I use Uffizzi?](https://uffizzi.cloud/faq/)
-- [How is Uffizzi different than Heroku?](https://uffizzi.cloud/faq/)
-- [What are the pre-requisites to be successful on Uffizzi?](https://uffizzi.cloud/faq/)
-- [How does Uffizzi work?](https://uffizzi.cloud/faq/)
-- [What data storage options does Uffizzi offer?](https://uffizzi.cloud/faq/)
-- [Is Uffizzi secure?](https://uffizzi.cloud/faq/)
-- [What is the underlying infrastructure supporting Uffizzi?](https://uffizzi.cloud/faq/)
-- [What languages do you support?](https://uffizzi.cloud/faq/)
-- [How much does it cost?](https://uffizzi.cloud/faq/)
+- [Why would I use Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/new/master#why-would-i-use-uffizzi)
+- [How is Uffizzi different than Heroku?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#how-is-uffizzi-different-than-heroku)
+- [What are the pre-requisites to be successful on Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#what-are-the-pre-requisites-to-be-successful-on-uffizzi)
+- [How does Uffizzi work?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#how-does-uffizzi-work)
+- [What data storage options does Uffizzi offer?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#what-data-storage-options-does-uffizzi-offer)
+- [Is Uffizzi secure?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#is-uffizzi-secure)
+- [What is the underlying infrastructure supporting Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#what-is-the-underlying-infrastructure-supporting-uffizzi)
+- [What languages do you support?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#what-languages-do-you-support)
+- [How much does it cost?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#how-much-does-it-cost)
 
 ## Community
 Join us on Slack at [Uffizzi Users](https://join.slack.com/t/uffizzi/shared_invite/zt-ffr4o3x0-J~0yVT6qgFV~wmGm19Ux9A).
