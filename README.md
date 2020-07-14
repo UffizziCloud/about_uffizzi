@@ -35,3 +35,6 @@ Uffizzi Cloud is currently in private Beta. To request access, visit https://uff
 - [What is the underlying infrastructure supporting Uffizzi?](https://uffizzi.cloud/faq/)
 - [What languages do you support?](https://uffizzi.cloud/faq/)
 - [How much does it cost?](https://uffizzi.cloud/faq/)
+
+## Community
+Join us on Slack at [Uffizzi Users](https://join.slack.com/t/uffizzi/shared_invite/zt-ffr4o3x0-J~0yVT6qgFV~wmGm19Ux9A).
