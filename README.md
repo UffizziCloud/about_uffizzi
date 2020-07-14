@@ -26,7 +26,7 @@ Uffizzi Cloud is currently in private Beta. To request access, visit https://uff
 - [x] HTTPS encryption (managed SSL certificates)
 
 ## FAQs
-- [Why would I use Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/new/master#why-would-i-use-uffizzi)
+- [Why would I use Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#why-would-i-use-uffizzi)
 - [How is Uffizzi different than Heroku?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#how-is-uffizzi-different-than-heroku)
 - [What are the pre-requisites to be successful on Uffizzi?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#what-are-the-pre-requisites-to-be-successful-on-uffizzi)
 - [How does Uffizzi work?](https://github.com/UffizziCloud/about-uffizzi/blob/master/faqs.md#how-does-uffizzi-work)
