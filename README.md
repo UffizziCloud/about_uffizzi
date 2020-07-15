@@ -38,3 +38,14 @@ Uffizzi Cloud is currently in private Beta. To request access, visit https://uff
 
 ## Community
 Join us on Slack at [Uffizzi Users](https://join.slack.com/t/uffizzi/shared_invite/zt-ffr4o3x0-J~0yVT6qgFV~wmGm19Ux9A).
+
+## Screenshots
+![Import Application](screenshots/import-application.png)
+
+![Docker Search](screenshots/docker-search.png)
+
+![Database Options](screenshots/database-options.png)
+
+![Deployment Summary](screenshots/deployment-summary.png)
+
+![Deployment in Progress](screenshots/deployment-in-progress.png)
