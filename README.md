@@ -43,12 +43,16 @@ Traditional clouds like AWS, Azure and GCP are great if you need a highly custom
 Join us on Slack at [Uffizzi Users](https://join.slack.com/t/uffizzi/shared_invite/zt-ffr4o3x0-J~0yVT6qgFV~wmGm19Ux9A).
 
 ## Screenshots
+![Creat Project](screenshots/create-project.png)
+
+![Cloud Environment](screenshots/cloud-environment.png)
+
 ![Import Application](screenshots/import-application.png)
 
 ![Docker Search](screenshots/docker-search.png)
 
 ![Database Options](screenshots/database-options.png)
 
-![Deployment Summary](screenshots/deployment-summary.png)
+![Database Tier](screenshots/database-tier.png)
 
 ![Deployment in Progress](screenshots/deployment-in-progress.png)
