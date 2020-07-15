@@ -55,6 +55,6 @@ Join us on Slack at [Uffizzi Users](https://join.slack.com/t/uffizzi/shared_invi
 
 ![Database Tier](screenshots/database-tier.png)
 
-![Deployment Summary](screenshots/deployment-summary.png)
+![Deployment Summary](screenshots/deployment-summary-modal.png)
 
 ![Deployment in Progress](screenshots/deployment-in-progress.png)
