@@ -2,7 +2,7 @@
 This repository contains basic information about [Uffizzi Cloud](https://uffizzi.cloud).
 
 ## About
-Uffizzi is a cloud platform that makes it Easy-like-Uffizzi to deploy and manage your applications and databases in the cloud. Deploy APIs, front-ends or full-stack applications then connect them to one of Uffizzi's fully managed database offerings.
+Uffizzi is a Docker-centric cloud platform that makes it Easy-like-Uffizzi to deploy and manage your applications and databases in the cloud. Deploy APIs, front-ends or full-stack applications direct from Docker Hub, then connect them to one of Uffizzi's fully managed database offerings.
 
 ## Why Uffizzi?
 Traditional clouds like AWS, Azure and GCP are great if you need a highly customized cloud, but their hundreds of options require time and expertise. Designed to be simple enough for a junior developer but purpose-built for professional applications, Uffizzi automates the complicated setup process typical of other cloud platforms to give you reliable, scalable and secure infrastructure — every time.
@@ -10,7 +10,7 @@ Traditional clouds like AWS, Azure and GCP are great if you need a highly custom
 ## Features
 - [x] Deploy from Docker Hub
 - [ ] Deploy from GitHub (coming Fall 2020)
-- [ ] CI/CD (coming Fall 2020)
+- [x] Continuous Deployments from Docker Hub
 - [x] Fully managed PostgreSQL
 - [x] Fully managed MySQL
 - [ ] Fully managed Microsoft SQL Server (coming Fall 2020)
