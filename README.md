@@ -5,7 +5,7 @@ Uffizzi is in Open Beta as of 10-18-21
 This repository contains basic information about [Uffizzi](https://uffizzi.com).
 
 ## About
-Uffizzi is a DevOps SaaS company that developed the Continuous Previews methodology (https://cpmanifesto.org and the supporting technology to provide the CP capability.  
+Uffizzi is a DevOps SaaS company that provides development teams with a Continuous Previews technical capability. 
 
 ## Features
 - [x] Continuous Previews- Fully automated on-demand feature level test environments with policy-based triggers
