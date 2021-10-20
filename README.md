@@ -5,7 +5,15 @@ Uffizzi is in Open Beta as of 10-18-21
 This repository contains basic information about [Uffizzi](https://uffizzi.com).
 
 ## About
-Uffizzi is a DevOps SaaS company that provides development teams with a Continuous Previews technical capability. 
+Uffizzi is a DevOps SaaS company that provides development teams with a Continuous Previews technical capability via Uffizzi's Cloud based platform or in a self-hosted configuration. 
+
+## Benefits
+Improvements against these Key Performance Indicators:
+
+Lead Times - The time between when an issue is created and its pushed to production
+Cycle Times - The time between when a feature is built, reviewed, and feedback provided.
+Team Velocity - The number of features released in a given period of time by a development team
+Code Stability - The frequency of unintended code breakage across the SDLC from development to production
 
 ## Features
 - [x] Continuous Previews- Fully automated on-demand feature level test environments with policy-based triggers
