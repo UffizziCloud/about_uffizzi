@@ -14,8 +14,11 @@ Uffizzi is a DevOps SaaS company that provides the thought leadership and open s
 Improvements against these Key Performance Indicators:
 
 Lead Times - The time between when an issue is created and its pushed to production
+
 Cycle Times - The time between when a feature is built, reviewed, and feedback provided.
+
 Team Velocity - The number of features released in a given period of time by a development team
+
 Code Stability - The frequency of unintended code breakage across the SDLC from development to production
 
 For more details see https://cpmanifesto.org
