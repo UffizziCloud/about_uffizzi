@@ -22,7 +22,7 @@ Code Stability - The frequency of unintended code breakage across the SDLC from 
 - [x] Supports entire app eco-system: static sites to microcservices applications
 - [x] Infrastructure-as-code
 - [x] Integrations with Github, Docker Hub, ECR, ACR, GCR (Gitlab and Bitbucket coming Winter 2021-2022)
-- [ ] Collaboration integrations (cominge Nov-Dec 2021) with Jira, Slack, MS Teams, Asana
+- [ ] Collaboration integrations (coming Nov-Dec 2021) with Jira, Slack, MS Teams, Asana
 - [x] Secure Preview URLs per preview deployment
 - [x] Enterprise-grade security
 - [x] Automated Load balancing
