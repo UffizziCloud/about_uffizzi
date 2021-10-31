@@ -2,7 +2,7 @@
 
 Uffizzi SaaS offering is in Open Beta as of 10-18-21
 
-We are preparing to open source Uffizzi following an open core model o/a Dec 2021.  
+We are preparing to open source Uffizzi following an open core model o/a Dec 2021 - follow this repo for updates and opportunities to contribute https://github.com/UffizziCloud/uffizzi_app  
 
 This repository contains basic information about [Uffizzi](https://uffizzi.com).
 
