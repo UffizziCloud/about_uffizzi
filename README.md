@@ -1,21 +1,24 @@
 # Uffizzi
 
-We are preparing to open source Uffizzi following an open core model o/a Dec 2021 - follow this repo for updates and opportunities to contribute https://github.com/UffizziCloud/uffizzi_app  
+We are preparing to open source Uffizzi Full-Stack Preview Tool following an open core model o/a Dec 2021 - follow this repo (https://github.com/UffizziCloud/uffizzi_app) for UPDATES and opportunities to CONTRIBUTE. 
 
 Uffizzi Continuous Previews SaaS offering is in Open Beta as of 10-18-21.  Sign up for free Starter Tier at https://uffizzi.com
 
 This repository contains basic information about [Uffizzi](https://uffizzi.com).
 
 ## About
-Uffizzi is a DevOps SaaS company that provides development teams with a Continuous Previews technical capability via Uffizzi's Cloud based platform or in a self-hosted configuration. 
+Uffizzi is a DevOps SaaS company that provides the thought leadership and open source technical capability for Continuous Previews.  Uffizzi also provides a Cloud-hosted or self-hosted Continuous Previews SaaS. 
 
 ## Benefits
+
 Improvements against these Key Performance Indicators:
 
 Lead Times - The time between when an issue is created and its pushed to production
 Cycle Times - The time between when a feature is built, reviewed, and feedback provided.
 Team Velocity - The number of features released in a given period of time by a development team
 Code Stability - The frequency of unintended code breakage across the SDLC from development to production
+
+For more details see https://cpmanifesto.org
 
 ## Features
 - [x] Continuous Previews- Fully automated on-demand feature level test environments with policy-based triggers
